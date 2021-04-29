@@ -1,4 +1,4 @@
-# PROYECTO 2: LIMPIEZA Y TRANSFORMACIÓN DE DATOS
+# LIMPIEZA Y TRANSFORMACIÓN DE DATOS
 El objetivo de este proyecto es continuar con la limpieza de datos, aplicando diferentes técnicas para remover valores faltantes y outliers, También agregar nuevos atributos al DataFrame.
 El proceso que se lleva acabo en este proyecto es:
 -	Descripción de los atributos que serán analizados.
