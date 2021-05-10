@@ -1,5 +1,5 @@
 # LIMPIEZA Y TRANSFORMACIÓN DE DATOS
-El objetivo de este proyecto es continuar con la limpieza de datos, aplicando diferentes técnicas para remover valores faltantes y outliers, También agregar nuevos atributos al DataFrame.
+El objetivo de este proyecto es continuar con la limpieza de datos, aplicando diferentes técnicas para remover valores faltantes y outliers, también agregar nuevos atributos al DataFrame.
 El proceso que se lleva acabo en este proyecto es:
 -	Descripción de los atributos que serán analizados.
 -	Importación de las bibliotecas necesarias para la exploración. Para este análisis se trabajará con Pandas, Numpy, Seaborn y MatplotLib.pylab.
